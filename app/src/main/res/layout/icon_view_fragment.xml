@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_alignParentBottom="true"
+    android:orientation="vertical"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
+    >
+
+    <TableRow
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+
+        >
+
+        <ImageButton
+            android:id="@+id/imgaboutus"
+            android:layout_width="@dimen/widhtoficon"
+            android:layout_height="@dimen/heightoficon"
+            android:layout_column="0"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/aboutus"
+            android:onClick="imgAboutUsClick"
+
+            />
+
+        <ImageButton
+            android:id="@+id/imgfaculties"
+            android:layout_width="@dimen/widhtoficon"
+            android:layout_height="@dimen/heightoficon"
+            android:layout_column="1"
+            android:layout_gravity="top"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/faculties" />
+
+        <ImageButton
+            android:id="@+id/imgphysicians"
+            android:layout_width="@dimen/widhtoficon"
+            android:layout_height="@dimen/heightoficon"
+            android:layout_column="2"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/physicians"
+            />
+
+        <ImageButton
+            android:id="@+id/imgservices"
+            android:layout_width="@dimen/widhtoficon"
+            android:layout_height="@dimen/heightoficon"
+            android:layout_column="2"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/services" />
+
+        <ImageButton
+            android:id="@+id/imgnews"
+            android:layout_width="@dimen/widhtoficon"
+            android:layout_height="@dimen/heightoficon"
+            android:layout_column="2"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/news" />
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ColorPrimary">#C8BEC3</color>
+    <color name="ColorPrimaryDark">#663333</color>
+
+    <color name="ToolBarBackGroundColor">#C8BEC3</color>
+    <color name="ToolBarPrimaryTextColor">#663333</color>
+    <color name="tabsScrollColor">#81646D</color>
+
+</resources>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">NearEast Hospital</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hospital_info">hospital_info</string>
+    <string name="title_activity_about_us_activity">About US</string>
+    <string name="about_us_description_1">
+        The Near East University Hospital, as the first and only private university hospital,
+        was established as part of planned development projects on campus of the Near East University,
+        Lefkosa, North Cyprus. Designed and built with a future-oriented structure and equipped with the latest and most sophisticated medical devices,
+        it offers extensive medical services with its highly experienced specialist staff to patients from all over the world.
+        The unmatched technology and quality of service offered at the best possible standards can only be obtained from a limited number of most developed western counterparts.
+    </string>
+    <string name="about_us_description_2">
+       North Cyprus is known as a heavenly corner of world with its unique cultural, historical and natural heritage that inspired even the most famous works of Shakespeare
+        and Leonardo Da Vinci, and is a well-known touristic destination with all its diverse potentials. The Near East University Nicosia Cyprus is the largest university
+        of Cyprus and was established in the heart of Cyprus, the land where traces of the greatest civilizations rose and vanished throughout the history form one of the most
+        precious historical and cultural heritage. The development of Near East University, now offering higher education opportunities to undergraduate and postgraduate students
+        from over 70 countries, has been continuing in accordance with the internationally realized needs of higher education and of the country. Considering its overall
+        responsibilities and potentials as an international foundation, the university also puts its potentials into service of local and international community in many ways
+        in order to meet the diverse needs of humanity and support the developments of national and international sectors, including the tourism sector, which is the core sector
+        of North Cyprus and hereby supported much by the relevant departments of the university. Healthcare and safety of tourists visiting the other countries is always a
+        concern of the tourism sector.
+    </string>
+     <string name="about_us_description_3">
+       In this respect, the Near East University Hospital of NEU was projected as a patient-centered institution and established at the international standards in accordance with
+         the criteria set forth by the Joint Comission International (JCI) have been adopted in advance in order to be recognized as a world-class health center offering the best
+         possible medical and other relevant services for the patients and tourists coming from abroad. With the establishment of Hospital of Near East University and the Hospital
+         of Faculty of Dentistry which is the first private dentistry clinic that obtained the highest grade in evaluation of JCI within the first year of its establishment,
+         the concept of medical tourism has been introduced to Cyprus and North Cyprus turned into a healthcare guaranteed tourism destination where the tourists coming to North
+         Cyprus from abroad are offered the best possible health services at the international standards.
+    </string>
+    <string name="about_us_description_4">
+       The Hospital of Near East University has a 56,000 square-meter closed area comprising 209 private, single patient rooms, 8 operating theatres, 30-bed Intensive Care Unit,
+        17-bed Neonatal Intensive Care Unit, an advanced laboratory where a wide array of medical and experimental tests can be carried out, and a cutting-edge diognostic imaging center,
+        and the most advanced Radiotheraphy Centre of the Eastern Mediterranean region equipped with Rapic Arc Technology. The hospital owns fully equipped air-jet ambulance which is also
+        the first and only in the region.
+
+    </string>
+    <string name="about_us_description_5">
+       In consideration with the diverse needs of the international patients, an "International Patient Coordination Center" has also been established to specifically deal with all sort of needs
+        of patients coming from abroad. This unit makes all sort of arrangements and meets the medical and social needs of international patients and their companions, providing service in their
+        native language. The Centre also arranges tours and social activities within the country. The primary objective of the Centre is to send the patients back to their homes as healthy
+        and happy individuals.
+
+    </string>
+
+ <string name="about_us_description_6">
+       The Near East University Hospital has been honored with many internationally prestigious awards in 2013 for its quality in terms of service quality, management quality, and dedication
+     to values of medicine and humanity. The awards received in 2013 are as follows:
+
+    </string>
+     <string name="about_us_description_7">
+
+1.WORLDCOB 2013 Business Excellence Award, Dubai
+2.International Socrates Award, Montreaux
+3.Best University Golden Award, Montreaux
+4.Golden Award For Quality And Business Prestige, Rome
+5.2013 Gold Quality Award Of International Arch Of Europe, Frankfurt
+
+    </string>
+
+
+</resources>
